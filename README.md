@@ -26,6 +26,8 @@ Implement the data structure and its primary functionality, adhering to the rest
 
 We'll need to write tests that document the behavior of our data structure.
 
+*Tip:* Your goal is to write code that mimics the *behaviors* of the data structure you chose. This does not necessarily mean your *implementation* must be the same as the original! Consider how your data structure should behave, write your tests accordingly, and then strive to write the simplest code possible to make your tests pass.
+
 
 ### Release 2: Describe Use Case
 Describe a programming problem that we could model with our data structure and how the model represents the problem situation without exposing unnecessary data or methods.
